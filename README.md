@@ -1,4 +1,4 @@
-# Dappazon
+# ShopChain
 
 ## Technology Stack & Tools
 
